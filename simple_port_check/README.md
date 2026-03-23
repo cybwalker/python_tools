@@ -1,0 +1,1 @@
+Change the Hosts and Ports in the script. Supports multiple Host:Port combination. Ideal for checking connectivity from clients to multiple server/ports.
